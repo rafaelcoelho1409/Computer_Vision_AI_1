@@ -1,6 +1,6 @@
 # Detecção e classificação de objetos usando Visão Computacional e Deep Learning
 Modelo de Visão Computacional e IA usando um vídeo curto do Youtube para detecção e classificação de objetos
-![Watch the video](output.mp4)
+!(output.mp4)
 
 
 ## Vídeo do Youtube
