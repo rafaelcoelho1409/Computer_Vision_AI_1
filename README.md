@@ -1,11 +1,11 @@
-# Detecção e classificação de objetos usando Visão Computacional e Deep Learning
-Modelo de Visão Computacional e IA usando um vídeo curto do Youtube para detecção e classificação de objetos
+# Detecting and classificating objects using Computer Vision and Deep Learning
+Computer Vision & AI model using a short video from Youtube for object detection and classification
 ![Frame](Screenshot_299.png)
 
-## Vídeo do Youtube
+## Youtube video
 'https://www.youtube.com/watch?v=pk96gqasGBQ&ab_channel=TRIDE'
 
-## Bibliotecas do Python usadas
+## Python packages
 - OpenCV (cv2)
 - numpy
 - tensorflow
