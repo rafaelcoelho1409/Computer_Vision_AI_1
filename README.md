@@ -1,4 +1,4 @@
-# Detecting and classificating objects using Computer Vision and Deep Learning
+# Detecting and classifying objects using Computer Vision and Deep Learning
 Computer Vision & AI model using a short video from Youtube for object detection and classification
 ![Frame](Screenshot_299.png)
 
